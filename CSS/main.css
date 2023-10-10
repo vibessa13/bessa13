@@ -1,0 +1,16 @@
+body{
+    height: 100%; /*altura*/
+    width: 110%; /*largura*/
+    display: flex;
+    justify-content: center;
+    background: red;
+}
+.imagem{
+    display: flex;
+    justify-content: center;
+}
+.imagem img{
+    width: 170px;
+    border-radius: 300px;
+    margin-top: 30px;
+}
